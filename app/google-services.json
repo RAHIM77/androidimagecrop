@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "725067644854",
+    "firebase_url": "https://androidimagecrop.firebaseio.com",
+    "project_id": "androidimagecrop",
+    "storage_bucket": "androidimagecrop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725067644854:android:99b40be2f5cfec1c",
+        "android_client_info": {
+          "package_name": "imgcrop.example.com.androidimagecrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725067644854-so0elc9fg0kha4fio9tqfmit5aj1ba7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "imgcrop.example.com.androidimagecrop",
+            "certificate_hash": "7222dfcd321b3d95655f22998dda9f3d771a7fe9"
+          }
+        },
+        {
+          "client_id": "725067644854-59ta7045hre26mhto75tsb9csak7vcpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlTFgAccBFUsoZ3Nia3dOYGZ4XIlw6UY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725067644854-59ta7045hre26mhto75tsb9csak7vcpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
